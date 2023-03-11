@@ -1,0 +1,88 @@
+
+body {
+    background-color: rgb(212, 155, 98);
+}
+
+.ric {
+    color: rgb(72, 134, 9);
+    font-size: 60px;
+    font-weight: bolder;
+}
+
+.my {
+    color: rgb(72, 134, 9);
+    font-size:40px;
+    font-weight:bolder;
+   
+}
+
+.div {
+    width: 100%;
+}
+
+.pic-1 {
+    display: inline;
+    width: 50%;
+    bottom: 75px;
+    position: relative;
+
+    
+}
+
+.sasha {
+    display: inline;
+    color: rgb(72, 134, 9);
+    width: 50px;
+    height: 50px;
+    font-size: 25px;
+    font-weight: bolder;
+    margin-left: 700px;
+    margin-top: 150px;
+
+}
+
+.once {
+    color: rgb(72, 134, 9);
+    font-size: 25px;
+    font-weight: bolder;
+}
+
+.lin {
+    color: rgb(23, 17, 95);
+}
+
+.los {
+    color: rgb(72, 134, 9);
+    font-size: 30px;
+    margin: 40px ;
+    font-weight: bolder;
+    text-indent: 55px;
+    
+    
+}
+
+.back {
+    color: rgb(72, 134, 9);
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+.day {
+    color: rgb(72, 134, 9);
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+.lo {
+    color: rgb(23, 17, 95);
+}
+
+.he {
+    color: rgb(81, 12, 121);
+
+}
+
+.im {
+    width: 50%;
+    display: inline;
+}

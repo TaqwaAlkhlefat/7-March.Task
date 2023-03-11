@@ -1,0 +1,25 @@
+
+.styling {
+    color: rgb(223, 146, 31);
+    size: 20px;
+}
+
+.heading-num2 {
+    border: 5px;
+    size:30px;
+    position: relative;
+    right: 0;
+    text-align: center;
+    text-align: right;
+}
+
+.my-first-para {
+    position: bottom 30px;
+}
+
+.my-second-para {
+    position: left bottom 20px;
+    font-weight: 200;
+    text-align: center;
+    text-align: right;
+}

@@ -1,0 +1,41 @@
+
+
+body {
+    background-color: rgb(249, 250, 184);
+  }
+  .container {
+    background-color: white;
+    width: 80%;
+    height: 900px;
+    margin: auto;
+  }
+  .header {
+    background-color: rgb(238, 238, 48);
+    height: 70px;
+    width: 100%;
+  }
+  .parghraph1 {
+    display: inline-block;
+    background-color: rgb(255, 255, 255);
+    width: 70%;
+    height: 780px;
+ 
+  }
+  .parghraph2 {
+    display: inline-block;
+    background-color: rgb(185, 185, 185);
+    width: 29%;
+    height: 810px;
+    
+  }
+
+  footer{
+    color: white;
+    background-color: rgb(97, 96, 96);
+    text-align: center;
+    padding: 15px;
+  }
+ 
+  .para1 {
+    margin: 5px;
+  }

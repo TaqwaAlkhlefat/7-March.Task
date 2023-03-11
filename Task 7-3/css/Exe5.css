@@ -1,0 +1,74 @@
+
+body {
+    background-color:  rgb(245, 202, 139);
+}
+
+.ar {
+    font-weight: bolder;
+    font-size: 30;
+}
+
+.head1 {
+font-weight: bolder;
+font-size: 30;
+
+}
+
+.lorem {
+    font-size:15;
+ 
+}
+
+.one {
+    background-color: white; 
+    border: solid 1px;
+    padding: 10px;
+    margin: 10px;
+    
+}
+
+.ip-one {
+    background-color: rgb(216, 175, 98);
+}
+.ip-two {
+    background-color: rgb(246, 250, 6);
+}
+
+.ip-three {
+    background-color: rgb(216, 175, 98);
+}
+
+.ip-four {
+    background-color: rgb(246, 250, 6);
+}
+
+.ip-five {
+    background-color: rgb(216, 175, 98);
+}
+
+.ip-six {
+    background-color: rgb(246, 250, 6);
+}
+
+.ip-siv {
+    background-color: rgb(246, 250, 6);
+}
+
+.two {
+    background-color: white;
+    border:dashed 1px ;
+    padding: 10px;
+    margin: 10px;
+}
+
+.three {
+    border: solid 1px rgb(10, 8, 8);
+    color:rgb(114, 25, 197);
+    background-color: white;
+    padding: 10px;
+    margin: 10px;
+} 
+
+.don {
+    border: dashed 1px red;
+}
