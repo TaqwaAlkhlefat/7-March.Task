@@ -1,0 +1,156 @@
+
+
+body {    
+    background-color: white;
+}
+
+.container {
+    position: relative;
+    display: inline;
+    size: 100%;
+    width: 100%;
+   
+}
+
+.part1 {
+    position: relative;
+    height: 400px;
+    display: inline;
+    position: top;
+
+    
+    float: left;
+    
+}
+
+.part2 {
+    position: relative;
+    height:200px ;
+    position: bottom;
+    margin-top: 5px;
+
+    display: inline;
+    float: left;
+
+    
+   
+}
+
+
+
+.w1 {
+    
+    background-color:   rgb(211, 211, 211);
+    width: 200px;
+    height: 400px;
+
+    float: left;
+    padding: 5px;
+    margin: 5px;
+    
+    
+}
+
+.w2 {
+    
+    background-color:   rgb(211, 211, 211);
+    width: 200px;
+    height: 400px;
+    margin-left: 230px;
+   
+
+    
+    padding: 5px;
+    margin: 5px;
+    float: left;
+
+
+}
+
+.w3 {
+    background-color:  rgb(235, 204, 104);
+    width: 200px;
+    height: 400px;
+
+    float: left;
+    padding: 5px;
+    margin: 5px;
+
+
+}
+
+.w4 {
+    background-color:  rgb(211, 211, 211);
+    width: 200px;
+    height: 400px;
+
+    float: left;
+    padding: 5px;
+    margin: 5px;
+
+
+}
+
+.w5 {
+    background-color:  rgb(211, 211, 211);
+    width: 200px;
+    height: 400px;
+
+    float: left;
+    padding: 5px;
+    margin: 5px;
+
+
+}
+
+.w6 {
+    background-color:   rgb(211, 211, 211);
+    width: 200px;
+    height: 400px;
+
+    float: left;
+    padding: 5px;
+    margin: 5px;
+
+
+}
+
+.w7 {
+    background-color:  rgb(211, 211, 211);
+    width: 640px;
+    height: 190px;
+
+    float: left;
+    padding: 5px;
+    margin: 5px;
+    left: 5px;
+
+
+
+}
+
+.w8 {
+    background-color:  rgb(211, 211, 211);
+    width: 640px;
+    height: 190px;
+    margin-left: 525px;
+
+    float: left;
+    padding: 5px;
+    margin: 5px;
+
+
+}
+
+h3 {
+    
+    border-bottom: white 2px solid;;
+
+    padding: 5px;
+    margin-top: 0px;
+}
+
+p {
+    font-weight: bold;
+    font-size:smaller;
+}

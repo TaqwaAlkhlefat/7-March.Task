@@ -1,0 +1,75 @@
+
+
+
+
+
+.b1 {
+
+    background-color: yellow;
+    border: 1px solid black;
+    width: 60px;
+    height: 60px;
+    display: inline;
+    margin-top: 20px;
+}
+
+
+.b2 {
+    background-color: green;
+    width: 60px;
+    height: 60px;
+    display: inline;
+    margin-top: 50px;
+    
+}
+
+input {
+    display: inline;
+    margin-right: 10px;
+  }
+
+  div {
+    display: inline;
+  }
+
+  .column-66 {
+    margin-top: 20px;
+    vertical-align:top;
+  }
+
+  .column-33 {
+    vertical-align:bottom;
+  }
+
+ 
+
+
+
+/* ............................ */
+
+
+   /* .row:after {
+    content:"";
+    display:inline;
+    clear:both;
+  }
+
+  .column-66 {
+    float:left;
+    width:66.66666%;
+    padding:20px;
+  }
+
+  .column-33 {
+    float:left;
+    width:33.33333%;
+    padding:20px;
+  }
+
+  @media screen and (max-width:1000px) {
+    .column-66
+    .column-33 {
+        width: 100%;
+        text-align: center;
+    }
+} */

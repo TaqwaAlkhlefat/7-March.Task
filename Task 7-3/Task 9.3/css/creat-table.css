@@ -1,0 +1,41 @@
+
+
+body {
+    background-color: white;
+}
+
+table {
+    width: 800px;
+    border-collapse:separate;
+    text-align: center;
+
+}
+
+caption {
+    font-size: 35;
+    font-weight: bold;
+}
+
+.first {
+    background-color: rgb(38, 183, 209)
+     
+}
+
+th {
+    background-color: rgb(111, 176, 187)
+    
+    
+}
+
+td {
+    background-color: rgb(175, 185, 211) ;
+}
+
+.all {
+    background-color: rgb(120, 172, 69);
+}
+ 
+.cel {
+    background-color: rgb(189, 214, 163);
+}
+

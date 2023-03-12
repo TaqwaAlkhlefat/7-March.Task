@@ -1,0 +1,30 @@
+
+
+body {
+    background-color: rgb(190, 188, 188);
+}
+
+input {
+    border:none;
+    margin: 10px;
+}
+
+.b6 {
+    box-shadow: 0px 10px 10px 5px rgb(111, 116, 116);
+}
+
+.b5 {
+    box-shadow: 0px 8px 8px 4px rgb(111, 116, 116);
+}
+
+.b4 {
+    box-shadow: 0px 6px 6px 3px rgb(111, 116, 116);
+}
+
+.b3 {
+    box-shadow: 0px 4px 4px 2px rgb(111, 116, 116);
+}
+
+.b2 {
+    box-shadow: 0px 2px 2px 1px rgb(163, 165, 165);
+}

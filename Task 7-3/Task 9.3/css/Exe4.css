@@ -1,0 +1,19 @@
+
+
+table {
+    border-collapse:separate;
+    padding: 5px;
+    margin: 5px;
+    border-spacing: 15px;
+
+  }
+  
+ td {
+    border: 1px solid black;
+    box-shadow:  5px 5px 5px rgb(157, 160, 160);
+    padding: 10px;
+    margin: 5px;
+    border-radius: 5px;
+
+
+  }

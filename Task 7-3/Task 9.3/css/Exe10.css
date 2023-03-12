@@ -1,0 +1,116 @@
+
+
+
+
+/* .box1 {
+    background-color:green;
+    border: 1px solid green;
+    width: 100%;
+    
+}
+
+.box2 {
+    background-color:yellow;
+    width: 90%;
+}
+
+.box3 {
+    background-color:green;
+    width: 80%;
+}
+
+.box4 {
+    background-color:yellow;
+    width: 70%;
+
+}
+
+.box5 {
+    background-color:green;
+    width: 60%;
+}
+
+input {
+    display: inline;
+} */
+
+/* ........................... */
+
+
+/* .box1 {
+    width: 400px;
+    height: 200px;
+    background-color: lightgray;
+    border: 1px solid black;
+    padding: 20px;
+    margin: 20px;
+  }
+  
+  .box2 {
+    width: 200px;
+    height: 100px;
+    background-color: white;
+    border: 1px solid black;
+    padding: 10px;
+    margin: 10px;
+  } */
+
+
+  .box1 {
+    position: relative;
+    width: 400px;
+    height: 400px;
+    background-color: green;
+  }
+  
+  .box2 {
+    position: absolute;
+    top: 15px;
+    left: 15px;
+    width: 370px;
+    height: 370px;
+    background-color: yellow;
+  }
+
+
+  .box3 {
+    position: absolute;
+    top: 30px;
+    left: 30px;
+    width: 340px;
+    height: 340px;
+    background-color: green;
+
+  }
+
+
+  .box4 {
+    position: absolute;
+    top: 45px;
+    left: 45px;
+    width: 310px;
+    height: 310px;
+    background-color: yellow;
+  }
+
+  .box5 {
+    position: absolute;
+    top: 60px;
+    left: 60px;
+    width: 280px;
+    height: 280px;
+    background-color: green;
+    font-weight: 600;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+  }
+  
+  input::placeholder {
+    color: white;
+  }
+  
+  
+  
+  
+  
